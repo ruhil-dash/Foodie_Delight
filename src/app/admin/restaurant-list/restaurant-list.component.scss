@@ -1,0 +1,12 @@
+
+.mat-table {
+    width: 100%;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    display: block; /* Ensure table fills its container width */
+  }
+  
+  .table-container {
+    overflow-x: auto; /* Ensure container respects overflow of table */
+  }
+
+  
