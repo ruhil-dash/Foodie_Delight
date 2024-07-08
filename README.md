@@ -32,3 +32,5 @@ in this i have used Material UI , ngxtoastr, Reactive forms http service and com
 
 Based on this i have created APIs in .Net core commiting those files for your reference (4 hrs)
 
+<img width="1176" alt="Screenshot 2024-07-08 at 8 20 34 AM" src="https://github.com/ruhil-dash/Foodie_Delight/assets/15997112/3732e475-809a-4b2a-bbd6-728ecabd0153">
+
